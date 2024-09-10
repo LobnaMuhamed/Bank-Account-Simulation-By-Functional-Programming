@@ -1,0 +1,13 @@
+﻿  Bank.cpp
+D:\A new beginning 💪\C++\Bank Project\Bank\Header.h(78,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\A new beginning 💪\C++\Bank Project\Bank\Header.h(636,27): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\A new beginning 💪\C++\Bank Project\Bank\Header.h(388,1): warning C4715: 'MyLib::DeleteUserFromFileByUserName': not all control paths return a value
+D:\A new beginning 💪\C++\Bank Project\Bank\Header.h(427,1): warning C4715: 'MyLib::UpdateUserDateByUserName': not all control paths return a value
+D:\A new beginning 💪\C++\Bank Project\Bank\Header.h(725,1): warning C4715: 'MyLib::DeleteClientFromFileByAccountNumber': not all control paths return a value
+D:\A new beginning 💪\C++\Bank Project\Bank\Header.h(798,1): warning C4715: 'MyLib::DepositBalanceToClientByAccountNumber': not all control paths return a value
+D:\A new beginning 💪\C++\Bank Project\Bank\Header.h(776,1): warning C4715: 'MyLib::UpdateClientDataByAccountNumber': not all control paths return a value
+  Bank.vcxproj -> D:\A new beginning 💪\C++\Bank Project\x64\Debug\Bank.exe
